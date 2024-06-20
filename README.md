@@ -18,7 +18,7 @@
 
 
 <a href="https://twitter.com/Ipiyushmalhotr">
-  <img height="50" src="https://user-images.githubusercontent.com/Nakulsharma122/Nakulsharma122/assets/128743517/8f06dbee-87e0-461f-b6c7-a0e770444ba5.png
+  <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg
 "/>
 </a>
 
