@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
- <div class="tenor-gif-embed" data-postid="1111732398857856129" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/penguin-gif-1111732398857856129">Penguin GIF</a>from <a href="https://tenor.com/search/penguin-gifs">Penguin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 </p>
 
 
