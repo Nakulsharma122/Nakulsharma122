@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-  <img  src="https://i.pinimg.com/originals/f0/c2/30/f0c230a5b8486bf855b03773b5256d03.gif"/>
+  <img  src="https://tenor.com/view/penguin-gif-1111732398857856129"/>
 </p>
 
 
@@ -17,10 +17,8 @@
 </a>
 
 
-<a href="https://twitter.com/Ipiyushmalhotr">
-  <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.png
-"/>
-</a>
+
+
 
 </p>
 
