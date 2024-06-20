@@ -18,11 +18,9 @@
 
 
 <a href="https://twitter.com/Ipiyushmalhotr">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+  <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreelogopng.com%2Fgmail-logo-png&psig=AOvVaw2VQ2XVn2vqdKuq2ZJu_uXj&ust=1718978511201000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDAppGs6oYDFQAAAAAdAAAAABAE"/>
 </a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
 </p>
 
 ---
