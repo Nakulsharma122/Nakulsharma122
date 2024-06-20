@@ -18,7 +18,8 @@
 
 
 <a href="https://twitter.com/Ipiyushmalhotr">
-  <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreelogopng.com%2Fgmail-logo-png&psig=AOvVaw2VQ2XVn2vqdKuq2ZJu_uXj&ust=1718978511201000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDAppGs6oYDFQAAAAAdAAAAABAE"/>
+  <img height="50" src="![image](https://github.com/Nakulsharma122/Nakulsharma122/assets/128743517/a8d1d731-f007-43be-b806-9f508503884e)
+"/>
 </a>
 
 </p>
