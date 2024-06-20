@@ -18,7 +18,7 @@
 
 
 <a href="https://twitter.com/Ipiyushmalhotr">
-  <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg
+  <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.png
 "/>
 </a>
 
